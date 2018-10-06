@@ -1,1 +1,1 @@
-# steelez_solution
+# This application use for Bidding and Auction Management.
